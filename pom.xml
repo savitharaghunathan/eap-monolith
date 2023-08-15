@@ -25,7 +25,7 @@
     </parent>
 
     <groupId>org.jboss.rwx.bank</groupId>
-    <artifactId>jboss-breakdown-monolith</artifactId>
+    <artifactId>original-monolith</artifactId>
     <version>7.4.0.GA</version>
     <packaging>pom</packaging>
     <name>RWX Bank</name>
