@@ -1,0 +1,8 @@
+/Users/sraghuna/local_dev/jboss-breakdown-monolith/original-monolith/original-web/src/main/java/org/jboss/rbx/bank/contact/data/MemberListProducer.java
+/Users/sraghuna/local_dev/jboss-breakdown-monolith/original-monolith/original-web/src/main/java/org/jboss/rbx/bank/contact/rest/MemberResourceRESTService.java
+/Users/sraghuna/local_dev/jboss-breakdown-monolith/original-monolith/original-web/src/main/java/org/jboss/rbx/bank/contact/service/MemberRegistration.java
+/Users/sraghuna/local_dev/jboss-breakdown-monolith/original-monolith/original-web/src/main/java/org/jboss/rbx/bank/contact/rest/JaxRsActivator.java
+/Users/sraghuna/local_dev/jboss-breakdown-monolith/original-monolith/original-web/src/main/java/org/jboss/rbx/bank/contact/controller/MemberController.java
+/Users/sraghuna/local_dev/jboss-breakdown-monolith/original-monolith/original-web/src/main/java/org/jboss/rbx/bank/contact/util/Resources.java
+/Users/sraghuna/local_dev/jboss-breakdown-monolith/original-monolith/original-web/src/main/java/org/jboss/rbx/bank/contact/model/Member.java
+/Users/sraghuna/local_dev/jboss-breakdown-monolith/original-monolith/original-web/src/main/java/org/jboss/rbx/bank/contact/data/MemberRepository.java

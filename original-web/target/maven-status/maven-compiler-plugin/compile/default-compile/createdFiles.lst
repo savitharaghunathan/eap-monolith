@@ -1,0 +1,9 @@
+org/jboss/rbx/bank/contact/data/MemberListProducer.class
+org/jboss/rbx/bank/contact/rest/JaxRsActivator.class
+org/jboss/rbx/bank/contact/model/Member_.class
+org/jboss/rbx/bank/contact/util/Resources.class
+org/jboss/rbx/bank/contact/data/MemberRepository.class
+org/jboss/rbx/bank/contact/controller/MemberController.class
+org/jboss/rbx/bank/contact/service/MemberRegistration.class
+org/jboss/rbx/bank/contact/rest/MemberResourceRESTService.class
+org/jboss/rbx/bank/contact/model/Member.class
